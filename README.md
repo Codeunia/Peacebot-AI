@@ -17,10 +17,17 @@ peacebot ai is an intelligent empathetic chatbot built to offer emotional suppor
  Backend:* Flask (for API server)  
  Frontend :* HTML/CSS/JavaScript  
  Version Control:* Git & GitHub  
+  
+🌱 Future Scope
+Add data visualization (mood graphs)
+Web-based interface using Flask
+Emotion detection from user input
+Daily mental wellness check-ins
+Password protection for journal entries
 
-Prerequisites
- Python 3.7+
- An OpenAI API key
+📄 License
+This project is released under the MIT License.
+
 
 
 
