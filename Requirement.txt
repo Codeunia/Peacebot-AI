@@ -8,3 +8,4 @@ numpy
 gunicorn
 python-dotenv
 requests
+openai
